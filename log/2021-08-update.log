@@ -49,3 +49,4 @@
 [2021-08-12 08:49:21] [WARN] 获取 clash 订阅失败：https://drive.google.com/uc?export=download&id=1k_VoLbBZL9LnzexqcvbQd6LOLeSEjsvW            - 404
 [2021-08-12 08:49:21] [WARN] 未能获取新的更新内容
 [2021-08-12 14:19:36] [WARN] 未能获取新的更新内容
+[2021-08-12 20:24:59] [INFO] 更新成功：['v2ray: 200', 'clash: 200']
